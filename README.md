@@ -19,7 +19,7 @@
 <a href="https://github.com/mw491/rusty">More at Github</a><br>
 <h4 align="left">⚛️ Svelte and React</h4>
 <a href="https://womble.netlify.app">Womble (hosted on netlify)</a>: unscramble the word game, <a href="https://github.com/mw491/womble">source code</a> (svelte)<br>
-<a href="https://womble.netlify.app">Goalkeeper</a>: An app to keep your goals (reactjs)<br>
+<a href="https://github.com/mw491/goalkeeper">Goalkeeper</a>: An app to keep your goals (reactjs)<br>
 <a href="https://mw491-react-weather.netlify.app">Weather App (hosted on netlify)</a>A simple weather app using the openweathermap API <a href="https://github.com/mw491/react-weather">source code</a>(reactjs)<br>
 <h4 align="left">🐍 Python:</h4>
 <a href="https://github.com/mw491/flask_journal">Flask Blog</a>A blog/journal app made using flask<br>
