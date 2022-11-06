@@ -1,4 +1,4 @@
-+<h1 align="center">Hi 👋, I'm mw491</h1>
+<h1 align="center">Hi 👋, I'm mw491</h1>
 <h3 align="center">Digital Craftsman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mw491&label=Profile%20views&color=0e75b6&style=flat" alt="mw491" /> </p>
@@ -9,11 +9,22 @@
 
 - 🌱 I’m currently learning **Rust and Svelte**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mw491?tab=repositories](https://github.com/mw491?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mw491?tab=repositories)
 
 - ⚡ Fun fact **Rust is great**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Some of My Projects:</h3>
+<h4 align="left">Rust:</h4>
+<a href="https://github.com/mw491/wordle-cli">Wordle</a>: Wordle in the terminal<br>
+<a href="https://github.com/mw491/rusty">More at Github</a><br>
+<h4 align="left">Svelte and React</h4>
+<a href="https://womble.netlify.app">Womble (hosted on netlify)</a>: unscramble the word game, <a href="https://github.com/mw491/womble">source code</a> (svelte)<br>
+<a href="https://womble.netlify.app">Goalkeeper</a>: An app to keep your goals (reactjs)<br>
+<a href="https://mw491-react-weather.netlify.app">Weather App (hosted on netlify)</a>A simple weather app using the openweathermap API <a href="https://github.com/mw491/react-weather">source code</a>(reactjs)<br>
+<h4 align="left">Go:</h4>
+<a href="https://github.com/mw491/godo">Godo</a>: A terminal todolist program<br>
+<a href="https://github.com/mw491/gofetch">Gofetch</a>: Fetch system information in the terminal (minimal neofetch)<br>
+
 <p align="left">
 </p>
 
