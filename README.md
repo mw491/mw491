@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mw491&no-frame=true&theme=darkhub" alt="mw491" /></a> </p>
 
-- 🔭 I’m currently working on [Beak](https://github.com/mw491/Beak)
+- 🔭 I’m currently working on [Beak](https://github.com/mw491/Beak) and [Goalkeeper]
 
 - 🌱 I’m currently learning **Django**, to create [Beak](https://github.com/mw491/Beak)
 
