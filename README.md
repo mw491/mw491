@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Beak](https://github.com/mw491/Beak) and [Goalkeeper](https://github.com/mw491/goalkeeper)
 
-- 🌱 I’m currently learning **Django**, to create [Beak](https://github.com/mw491/Beak)
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mw491?tab=repositories)
 
