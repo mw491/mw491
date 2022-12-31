@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mw491?tab=repositories)
 
+- 👨‍💻 My portfolio is available at https://mw491.netlify.app
+
 - ⚡ Fun fact **Rust is great**
 
 <h3 align="left">Some of My Projects:</h3>
