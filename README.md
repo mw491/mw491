@@ -10,6 +10,7 @@
 <a href="https://github.com/mw491/next-pushup">NEXT PUSHUP</a>: Transform your push-up game to the next level<br>
 <h4 align="left">🦀 Rust:</h4>
 <a href="https://github.com/mw491/wordle-cli">Wordle</a>: Wordle in the terminal<br>
+<a href="https://github.com/mw491/twordle-rs">Tordle</a>: Timed wordle<br>
 <a href="https://github.com/mw491/rusty">Misc</a><br>
 <h4 align="left">⚛️ Svelte and React</h4>
 <a href="https://womble.netlify.app">Womble</a>: unscramble the word game, <a href="https://github.com/mw491/womble">source code</a> (svelte)<br>
